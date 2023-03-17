@@ -1,5 +1,5 @@
 const palabras = [
-  { palabra: "perro", pista: "Animal doméstico de cuatro patas." },
+  { palabra: "perro", pista: "Encuentra el camino hacia los sueños, pero no te quedes dormido en el intento. En un lugar oscuro, donde los secretos se esconden" },
   { palabra: "gato", pista: "Animal doméstico de pelo suave y cola larga." },
   { palabra: "coche", pista: "Vehículo de cuatro ruedas para transporte." },
   { palabra: "plátano", pista: "Fruta amarilla y alargada." },
