@@ -1,7 +1,7 @@
 const palabras = [
   { palabra: "amor", pista: "Pista 1: Encuentra el camino hacia los sueños, pero no te quedes dormida en el intento. En un lugar oscuro, donde los secretos se esconden" },
   { palabra: "imprescindible", pista: "Pista 2: Donde aguardan tus mejores galas, colgadas y listas para usar. ¿Podrías encontrar aquí el código que buscas? Investiga bien" },
-  { palabra: "pilar", pista: "Pista 3: Un lugar donde te preparas para el día y hablas con roca. Necesitas acudir a a él cuando no haces un perfect." },
+  { palabra: "pilar", pista: "Pista 3: Un lugar donde te preparas para el día y hablas con roca. Necesitas acudir a él cuando no haces un perfect." },
   { palabra: "incondicional", pista: "Pista 4: Aquí cuelgan algunas de las que se llevan en la espalda, en el interior de una de ellas encontrarás el código que necesitas para avanzar en tu aventura." },
   { palabra: "tequiero", pista: "Pista 5: Muy bien guapa, has ganado. Tu regalo está en un lugar donde en época de examenes más se usan. De mucha variedad de colores y uno de tus gustos favoritos" }
 ];
