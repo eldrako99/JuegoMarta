@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Juego de adivinanzas</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    input[type=text] {
+      padding: 5px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      width: 100%;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #pistas, #resultado {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Juego de adivinanzas</h1>
+
+  <label for="palabra">Introduce una palabra:</label>
+  <input type="text" id="palabra">
+  <button id="enviar">Enviar palabra</button>
+
+  <div id="pistas"></div>
+  <div id="resultado"></div>
+
+  <script src="juego.js"></script>
+</body>
+</html>
